@@ -24,7 +24,7 @@ umb=new Umb(50,300)
 
 
 for(var i=0;i<100;i++){
-	drops.push(new Drop)
+	drops.push(new Drop())
 }
 	Engine.run(engine);
   
